@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## About
 
 MiForge is an independent collection of tools and resources for the Xiaomi ecosystem.
